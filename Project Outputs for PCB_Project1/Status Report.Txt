@@ -1,0 +1,10 @@
+Output: Report Board Stack
+Type  : Report Board Stack
+From  : Project [PCB_Project1.PrjPCB]
+   Generated File[ARDUBOY.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 20:15:12 On 2018/9/8
