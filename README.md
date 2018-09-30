@@ -1,4 +1,5 @@
 # Arduclone
+![avatar](https://github.com/JaylinLee/Arduclone/blob/master/IMG1.jpg)<Br/>
 Something really funny~<Br/><Br/>
 有些事我都已忘记<Br/>
 但是现在还记得<Br/>
